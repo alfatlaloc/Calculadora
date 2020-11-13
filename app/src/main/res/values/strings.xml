@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="app_sum">+</string>
+    <string name="app_res">-</string>
+    <string name="app_clear">C</string>
+    <string name="app_div">/</string>
+    <string name="app_cero">0</string>
+    <string name="app_one">1</string>
+    <string name="app_two">2</string>
+    <string name="app_tree">3</string>
+    <string name="app_four">4</string>
+    <string name="app_five">5</string>
+    <string name="app_six">6</string>
+    <string name="app_seven">7</string>
+    <string name="app_eigth">8</string>
+    <string name="app_nine">9</string>
+    <string name="app_mul">*</string>
+    <string name="app_percent">%</string>
+    <string name="app_delete">DEL</string>
+    <string name="app_point">.</string>
+    <string name="app_ans">ANS</string>
+    <string name="app_pa">(</string>
+    <string name="app_pc">)</string>
+    <string name="app_equal">=</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="app_sin">Sin</string>
+    <string name="app_cos">Cos</string>
+    <string name="app_tan">Tan</string>
+    <string name="app_ln">ln</string>
+</resources>
